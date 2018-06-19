@@ -1,0 +1,65 @@
+.center{
+  text-align: center;
+  color: white;
+}
+.dev{
+  color: white;
+}
+.pt{
+  color: white;
+  text-align: center;
+}
+.hm{
+  text-align: center;
+  color: black;
+}
+h2{
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+  text-align: center;
+}
+.wtf{
+  color: white;
+}
+hr{
+  display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 3px;
+    color: blue;
+}
+body{
+  background-image: url(../images/ten.jpg);
+}
+.card{
+  margin: auto;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    padding-left: 50px;
+
+}
+.name{
+  color: black;
+  font-size: 10;
+}
+a{
+  color: black;
+}
+jumbotron{
+  padding-left: 10px;
+  color: aqua;
+}
+h1{
+  color: white;
+}
+p{
+  color: white;
+}
+/* .page-header{
+  background-color: turquoise;
+} */
