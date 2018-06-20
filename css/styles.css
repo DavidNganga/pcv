@@ -16,6 +16,7 @@
 h2{
   color: white;
   font-family: "Times New Roman", Times, serif;
+  font-style:
   font-size: 12px;
   text-align: center;
 }
@@ -63,3 +64,18 @@ p{
 /* .page-header{
   background-color: turquoise;
 } */
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    border: none 1px #c3c3c3;
+
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+.contact{
+padding: 50px;
+}
